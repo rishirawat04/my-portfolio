@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Ninepages Techsolutions Pvt. Ltd",
+    "startDate": "September,2023",
+    "endDate": "Present",
+    "experiences": [" NVMart - E-Commerce Application - Ninepages Techsolutions Pvt. Ltd "],
+    "imageSrc": "history/download.png"
+  },
+  {
+    "role": "Freelancer (Frontend Development)",
+    "organisation": "Self-Employed",
+    "startDate": "March, 2023",
+    "endDate": "August, 2023",
+    "experiences": ["worked…Like profile card design, item listing, shopping cart flows"],
+    "imageSrc": "history/freelancer.webp"
+  }
+ 
+]
