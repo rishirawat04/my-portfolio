@@ -7,7 +7,8 @@ export default defineConfig({
   css: {
     modules: {
       localsConvention: "camelCase",
-      base:'/[my-portfolio]/'
+      
     },
   },
+  base:'/my-portfolio/'
 });
